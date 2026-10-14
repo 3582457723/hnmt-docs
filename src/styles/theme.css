@@ -1,36 +1,40 @@
 :root {
-  --sl-font: 'Hiragino Kaku Gothic ProN', 'Yu Gothic', system-ui, sans-serif;
-  --sl-color-accent-low: #48221c;
-  --sl-color-accent: #d15b40;
-  --sl-color-accent-high: #ffbaa3;
-  --sl-color-white: #f9f1e5;
-  --sl-color-gray-1: #e9dfd1;
-  --sl-color-gray-2: #c6bbaa;
-  --sl-color-gray-3: #9d9183;
-  --sl-color-gray-4: #61584e;
-  --sl-color-gray-5: #352f29;
-  --sl-color-gray-6: #26221e;
-  --sl-color-black: #1b1815;
-  --sl-content-width: 48rem;
+  --sl-font: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', Meiryo, sans-serif;
+  --sl-color-accent-low: #452523;
+  --sl-color-accent: #c44d3b;
+  --sl-color-accent-high: #ffb4a5;
+  --sl-color-white: #f3f4f6;
+  --sl-color-gray-1: #e1e3e8;
+  --sl-color-gray-2: #bec3ce;
+  --sl-color-gray-3: #929aaa;
+  --sl-color-gray-4: #555d6c;
+  --sl-color-gray-5: #303642;
+  --sl-color-gray-6: #222731;
+  --sl-color-black: #171b23;
+  --sl-text-h1: 2rem;
+  --sl-text-h2: 1.4rem;
+  --sl-text-h3: 1.15rem;
+  --sl-content-width: 46rem;
 }
 :root[data-theme='light'] {
-  --sl-color-accent-low: #fae6dc;
-  --sl-color-accent: #9d3423;
-  --sl-color-accent-high: #692318;
-  --sl-color-white: #27211c;
-  --sl-color-gray-1: #463c33;
-  --sl-color-gray-2: #63574b;
-  --sl-color-gray-3: #7c6e60;
-  --sl-color-gray-4: #b5a898;
-  --sl-color-gray-5: #e6dac9;
-  --sl-color-gray-6: #f4ecdf;
-  --sl-color-gray-7: #faf5ec;
-  --sl-color-black: #fffcf6;
+  --sl-color-accent-low: #fdf0ed;
+  --sl-color-accent: #aa382b;
+  --sl-color-accent-high: #8d3025;
+  --sl-color-white: #252a34;
+  --sl-color-gray-1: #363d49;
+  --sl-color-gray-2: #4b5563;
+  --sl-color-gray-3: #6b7280;
+  --sl-color-gray-4: #a1a8b3;
+  --sl-color-gray-5: #e5e7eb;
+  --sl-color-gray-6: #f5f6f8;
+  --sl-color-gray-7: #fafbfc;
+  --sl-color-black: #ffffff;
 }
-.site-title img { border-radius: 50%; width: 2.5rem; height: 2.5rem; object-fit: cover; }
-h1, h2, .site-title { font-family: 'Hiragino Mincho ProN', 'Yu Mincho', serif; }
-h1 { letter-spacing: .035em; }
-.sl-markdown-content { line-height: 1.95; }
-.sl-markdown-content h2 { border-bottom: 1px solid var(--sl-color-gray-5); padding-bottom: .6rem; }
+.site-title { font-size: 1.1rem; font-weight: 700; letter-spacing: 0; color: var(--sl-color-white); }
+.site-title img { border-radius: .5rem; width: 2.25rem; height: 2.25rem; object-fit: cover; }
+h1, h2, h3 { font-family: var(--sl-font); letter-spacing: 0; line-height: 1.5; }
+h1 { font-weight: 700; }
+.sl-markdown-content { line-height: 1.9; }
+.sl-markdown-content h2 { padding-bottom: .45rem; border-bottom: 1px solid var(--sl-color-gray-5); }
 .sl-markdown-content a { text-underline-offset: .2em; }
 :focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 4px; }
