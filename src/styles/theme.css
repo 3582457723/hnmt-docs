@@ -38,3 +38,29 @@ h1 { font-weight: 700; }
 .sl-markdown-content h2 { padding-bottom: .45rem; border-bottom: 1px solid var(--sl-color-gray-5); }
 .sl-markdown-content a { text-underline-offset: .2em; }
 :focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 4px; }
+
+@media (max-width: 49.99rem) {
+  :root {
+    --sl-content-pad-x: 1.125rem;
+    --sl-text-h1: 1.65rem;
+    --sl-text-h2: 1.25rem;
+    --sl-mobile-toc-height: 3rem;
+  }
+  .site-title { font-size: 1rem; gap: .5rem; min-height: 44px; }
+  .site-title img { width: 2rem; height: 2rem; }
+  .sl-menu-button, site-search > button { min-width: 44px; min-height: 44px; }
+  .content-panel { padding-block: 1.25rem; }
+  .sl-markdown-content { font-size: 1rem; line-height: 1.85; overflow-wrap: anywhere; }
+  .sl-markdown-content li + li { margin-top: .65rem; }
+  .sl-markdown-content table { display: block; max-width: 100%; overflow-x: auto; overscroll-behavior-x: contain; }
+  .sl-markdown-content td:first-child code { white-space: nowrap; }
+  .sl-markdown-content table:has(td code) td:last-child { min-width: 10rem; }
+  #starlight__sidebar a { display: flex; align-items: center; min-height: 44px; padding-block: .6rem; font-size: 1rem; }
+  #starlight__sidebar summary { min-height: 44px; display: flex; align-items: center; }
+  mobile-starlight-toc summary { min-height: 44px; }
+  mobile-starlight-toc a { display: flex; align-items: center; min-height: 44px; }
+  .pagination-links { grid-template-columns: 1fr; gap: .75rem; }
+  .pagination-links a { min-height: 72px; box-shadow: none; }
+  .pagination-links .link-title { font-size: 1rem; }
+  #starlight__search .pagefind-ui__search-input { font-size: 16px; }
+}
