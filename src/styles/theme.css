@@ -1,0 +1,36 @@
+:root {
+  --sl-font: 'Hiragino Kaku Gothic ProN', 'Yu Gothic', system-ui, sans-serif;
+  --sl-color-accent-low: #48221c;
+  --sl-color-accent: #d15b40;
+  --sl-color-accent-high: #ffbaa3;
+  --sl-color-white: #f9f1e5;
+  --sl-color-gray-1: #e9dfd1;
+  --sl-color-gray-2: #c6bbaa;
+  --sl-color-gray-3: #9d9183;
+  --sl-color-gray-4: #61584e;
+  --sl-color-gray-5: #352f29;
+  --sl-color-gray-6: #26221e;
+  --sl-color-black: #1b1815;
+  --sl-content-width: 48rem;
+}
+:root[data-theme='light'] {
+  --sl-color-accent-low: #fae6dc;
+  --sl-color-accent: #9d3423;
+  --sl-color-accent-high: #692318;
+  --sl-color-white: #27211c;
+  --sl-color-gray-1: #463c33;
+  --sl-color-gray-2: #63574b;
+  --sl-color-gray-3: #7c6e60;
+  --sl-color-gray-4: #b5a898;
+  --sl-color-gray-5: #e6dac9;
+  --sl-color-gray-6: #f4ecdf;
+  --sl-color-gray-7: #faf5ec;
+  --sl-color-black: #fffcf6;
+}
+.site-title img { border-radius: 50%; width: 2.5rem; height: 2.5rem; object-fit: cover; }
+h1, h2, .site-title { font-family: 'Hiragino Mincho ProN', 'Yu Mincho', serif; }
+h1 { letter-spacing: .035em; }
+.sl-markdown-content { line-height: 1.95; }
+.sl-markdown-content h2 { border-bottom: 1px solid var(--sl-color-gray-5); padding-bottom: .6rem; }
+.sl-markdown-content a { text-underline-offset: .2em; }
+:focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 4px; }
