@@ -21,7 +21,7 @@ export default defineConfig({
       { label: 'はじめに', items: [{ autogenerate: { directory: 'start' } }] },
       { label: '暮らしの便利機能', items: [{ autogenerate: { directory: 'life' } }] },
       { label: 'Townyの使い方', items: [{ autogenerate: { directory: 'towny' } }] },
-      { label: '町とお店', items: [{ autogenerate: { directory: 'town' } }] },
+      { label: 'お店とチャット', items: [{ autogenerate: { directory: 'town' } }] },
       { label: 'ガイドの編集', slug: 'contributing' },
     ],
   })],

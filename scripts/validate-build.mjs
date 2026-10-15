@@ -24,6 +24,22 @@ async function walk(dir) {
   }
 }
 await walk(root);
+const joinRedirect = pages.get(join(root, 'town/join/index.html'));
+const joinDestination = `${base}towny/residents/`;
+if (!joinRedirect) {
+  errors.push('town/join/: missing legacy redirect');
+} else {
+  const { nodes } = joinRedirect;
+  const refresh = nodes.find(n => n.tag === 'meta' && n.attrs['http-equiv']?.toLowerCase() === 'refresh');
+  const canonical = nodes.find(n => n.tag === 'link' && n.attrs.rel === 'canonical');
+  const robots = nodes.find(n => n.tag === 'meta' && n.attrs.name === 'robots');
+  const body = nodes.find(n => n.tag === 'body');
+  if (refresh?.attrs.content !== `0;url=${joinDestination}`) errors.push('town/join/: invalid redirect destination');
+  if (canonical?.attrs.href !== new URL(joinDestination, origin).href) errors.push('town/join/: invalid redirect canonical');
+  if (!nodes.some(n => n.tag === 'a' && n.attrs.href === joinDestination)) errors.push('town/join/: missing fallback link');
+  if (!robots?.attrs.content?.split(',').map(v => v.trim()).includes('noindex')) errors.push('town/join/: must not be indexed');
+  if (!body || !('data-pagefind-ignore' in body.attrs)) errors.push('town/join/: must be excluded from site search');
+}
 for (const [file, { nodes }] of pages) {
   const path = relative(root, file).replaceAll('\\', '/').replace(/index\.html$/, '');
   const pageUrl = new URL(base + path, origin);

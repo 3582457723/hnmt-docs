@@ -116,7 +116,7 @@ GitHubのアカウントがない場合は、アカウントを作成してロ�
 | --- | --- |
 | `src/content/docs/start/` | 初参加の案内、最初にすること |
 | `src/content/docs/life/` | ホーム、移動、会話などの便利機能 |
-| `src/content/docs/town/` | 町への参加、TownyChat、お店での取引 |
+| `src/content/docs/town/` | TownyChat、お店での取引 |
 | `src/content/docs/towny/` | Townyの住民・土地・町・国家の使い方とコマンド |
 
 ### 2. ファイルを作る
