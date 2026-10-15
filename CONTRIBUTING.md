@@ -40,6 +40,7 @@ Publicリポジトリなので、招待されていない方もForkからPRを�
 - `start/`：初参加の案内
 - `life/`：ホーム・移動・会話など
 - `town/`：Towny・TownyChat・QuickShopの案内
+- `towny/`：Towny本体の使い方・コマンド。基準バージョンと実装を照合して更新する
 
 ## セクションを追加する
 

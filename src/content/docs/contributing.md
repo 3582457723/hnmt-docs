@@ -117,14 +117,15 @@ GitHubのアカウントがない場合は、アカウントを作成してロ�
 | `src/content/docs/start/` | 初参加の案内、最初にすること |
 | `src/content/docs/life/` | ホーム、移動、会話などの便利機能 |
 | `src/content/docs/town/` | 町への参加、TownyChat、お店での取引 |
+| `src/content/docs/towny/` | Townyの住民・土地・町・国家の使い方とコマンド |
 
 ### 2. ファイルを作る
 
 **Add file → Create new file**を選びます\
 ファイル名は、英小文字とハイフンを使った`.md`形式にします
 
-たとえば、町の土地を確認する記事なら、`town/check-land.md`のような名前です\
-`town/`フォルダーを開いた状態なら、入力する名前は`check-land.md`だけで大丈夫です
+たとえば、Townyの土地を確認する記事なら、`towny/check-land.md`のような名前です\
+`towny/`フォルダーを開いた状態なら、入力する名前は`check-land.md`だけで大丈夫です
 
 ### 3. 記事名・説明・本文を書く
 

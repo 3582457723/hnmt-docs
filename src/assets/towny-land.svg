@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" role="img" aria-labelledby="title desc">
+  <title id="title">町の領土と住民の土地</title>
+  <desc id="desc">荒野の中に町の領土があり、その中に住民の家、共有地、売地が分かれている模式図</desc>
+  <rect width="680" height="360" rx="12" fill="#f5f6f7"/>
+  <g font-family="sans-serif" font-size="18" fill="#333">
+    <text x="24" y="36">荒野（町の外）</text>
+    <rect x="40" y="58" width="600" height="276" rx="8" fill="#fff" stroke="#ba4436" stroke-width="3"/>
+    <text x="64" y="91" fill="#9d372d">町の領土</text>
+    <rect x="64" y="113" width="168" height="148" rx="4" fill="#e8f0f7" stroke="#577a98"/>
+    <text x="91" y="177">住民の家</text><text x="82" y="208" font-size="15">個人が所有する土地</text>
+    <rect x="252" y="113" width="168" height="148" rx="4" fill="#eef3ed" stroke="#72866a"/>
+    <text x="307" y="177">共有地</text><text x="274" y="208" font-size="15">町が管理する土地</text>
+    <rect x="440" y="113" width="168" height="148" rx="4" fill="#fff4df" stroke="#a88543"/>
+    <text x="465" y="177">売り出し中</text><text x="458" y="208" font-size="15">価格を確認して購入</text>
+    <text x="64" y="302" font-size="16">町の領土の取得と、個人の土地の購入は別の操作です</text>
+  </g>
+</svg>
