@@ -1,5 +1,5 @@
 ---
-title: 国家の参加と運営
+title: 🌍 国家の参加と運営
 description: 国家を探す、町ごと参加する、国家を設立する、役職と首都を管理する
 sidebar:
   order: 9

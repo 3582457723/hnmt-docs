@@ -1,5 +1,5 @@
 ---
-title: スポーンに戻る
+title: 🧭 スポーンに戻る
 description: spawnコマンドでサーバーの共通スポーンへ移動する方法
 sidebar:
   order: 2

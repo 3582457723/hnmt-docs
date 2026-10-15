@@ -1,5 +1,5 @@
 ---
-title: お店で取引する
+title: 🛒 お店で取引する
 description: QuickShop-Hikariのチェストショップで買う・売る基本の操作
 sidebar:
   order: 2

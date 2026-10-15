@@ -1,5 +1,5 @@
 ---
-title: 国家の外交
+title: 🤝 国家の外交
 description: 同盟の申し込み、敵対の指定、町への制裁とそれぞれの違い
 sidebar:
   order: 10

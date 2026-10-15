@@ -1,5 +1,5 @@
 ---
-title: コマンド一覧
+title: 📋 コマンド一覧
 description: 日ノ本鯖のホーム・移動・会話・Tipsの主なコマンド
 sidebar:
   order: 5

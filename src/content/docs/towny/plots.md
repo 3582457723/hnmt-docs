@@ -1,5 +1,5 @@
 ---
-title: 土地の購入と売却
+title: 🏡 土地の購入と売却
 description: 家を建てる区画の探し方、購入、売却、所有の解除と範囲指定
 sidebar:
   order: 3

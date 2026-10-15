@@ -1,5 +1,5 @@
 ---
-title: Tipsの表示を変える
+title: 💡 Tipsの表示を変える
 description: 自動で届くヒントのオン・オフと、個別のヒントを非表示にする方法
 sidebar:
   order: 4

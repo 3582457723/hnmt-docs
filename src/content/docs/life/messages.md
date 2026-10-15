@@ -1,5 +1,5 @@
 ---
-title: 個別メッセージと無視設定
+title: ✉️ 個別メッセージと無視設定
 description: msg・reply・ignoreを使った個別の会話と受信設定
 sidebar:
   order: 3

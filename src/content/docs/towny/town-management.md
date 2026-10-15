@@ -1,5 +1,5 @@
 ---
-title: 町の運営
+title: 🛠️ 町の運営
 description: 住民の招待、役職、町長の引き継ぎ、町の名前や各種設定
 sidebar:
   order: 7

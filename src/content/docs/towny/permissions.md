@@ -1,5 +1,5 @@
 ---
-title: 建築と操作の権限
+title: 🔐 建築と操作の権限
 description: 友達と建築する方法と、対象・操作別の権限、trust、個別設定の違い
 sidebar:
   order: 4

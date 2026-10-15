@@ -1,5 +1,5 @@
 ---
-title: Townyをはじめる
+title: 🏘️ Townyをはじめる
 description: 町を探して参加し、自分の家を建てるまでを順番に案内します
 sidebar:
   order: 1

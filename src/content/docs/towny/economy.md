@@ -1,5 +1,5 @@
 ---
-title: 銀行・税金・維持費
+title: 💰 銀行・税金・維持費
 description: 個人のお金と町・国家の銀行の違い、入出金、税率と土地価格の設定
 sidebar:
   order: 8

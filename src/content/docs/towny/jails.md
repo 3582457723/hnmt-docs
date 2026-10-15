@@ -1,5 +1,5 @@
 ---
-title: 牢屋と保釈
+title: 🔒 牢屋と保釈
 description: 投獄されたときの確認方法と、町が牢屋・独房を管理する操作
 sidebar:
   order: 12

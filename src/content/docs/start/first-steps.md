@@ -1,5 +1,5 @@
 ---
-title: 最初の一歩
+title: 🌱 最初の一歩
 description: 初参加の案内、初心者キット、ガイドブックの使い方
 sidebar:
   order: 1

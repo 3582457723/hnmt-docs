@@ -1,5 +1,5 @@
 ---
-title: 町の設立と領土
+title: 🏘️ 町の設立と領土
 description: 町をつくる手順、領土の拡張、前哨地、譲渡、売却と合併
 sidebar:
   order: 6

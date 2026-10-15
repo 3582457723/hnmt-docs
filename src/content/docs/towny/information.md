@@ -1,5 +1,5 @@
 ---
-title: 地図・情報・便利な表示
+title: 🗺️ 地図・情報・便利な表示
 description: Townyの地図、境界表示、ランキング、料金や時刻を確認するコマンド
 sidebar:
   order: 5

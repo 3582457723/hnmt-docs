@@ -1,5 +1,5 @@
 ---
-title: チャットを使う
+title: 💬 チャットを使う
 description: TownyChatの全体チャット・町チャットと個別メッセージの使い分け
 sidebar:
   order: 3

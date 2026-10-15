@@ -1,5 +1,5 @@
 ---
-title: ガイドの編集に参加する
+title: ✍️ ガイドの編集に参加する
 description: GitHubを初めて使う人に向けて、記事の修正・追加・PRの作成から公開までを案内します
 ---
 
@@ -134,7 +134,7 @@ GitHubのアカウントがない場合は、アカウントを作成してロ�
 
 ```markdown
 ---
-title: ホームを使う
+title: 🏠 ホームを使う
 description: 今いる場所をホームに登録する手順
 ---
 
@@ -187,7 +187,7 @@ GitHubでは、ファイル名にフォルダーの名前を含めると、一�
 
 ```markdown
 ---
-title: スポーンへの移動
+title: 🧭 スポーンへの移動
 description: 共通スポーンに戻る手順
 sidebar:
   order: 1

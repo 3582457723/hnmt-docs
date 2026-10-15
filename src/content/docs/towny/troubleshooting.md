@@ -1,5 +1,5 @@
 ---
-title: Townyで困ったとき
+title: 🛠️ Townyで困ったとき
 description: 建築できない、町に入れない、土地を買えない、移動できないときの確認手順
 sidebar:
   order: 14

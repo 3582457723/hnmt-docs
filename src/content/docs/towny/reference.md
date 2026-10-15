@@ -1,5 +1,5 @@
 ---
-title: コマンドの探し方と収録範囲
+title: 📋 コマンドの探し方と収録範囲
 description: Townyのコマンドを用途と役割から探す索引、短縮形、確認操作、公式出典
 sidebar:
   order: 13

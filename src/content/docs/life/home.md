@@ -1,5 +1,5 @@
 ---
-title: ホームを使う
+title: 🏠 ホームを使う
 description: GUIからホームの登録・移動・管理・枠の購入を行う方法
 sidebar:
   order: 1
