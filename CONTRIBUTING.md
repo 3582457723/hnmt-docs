@@ -39,7 +39,8 @@ Publicリポジトリなので、招待されていない方もForkからPRを�
 
 - `start/`：初参加の案内
 - `life/`：ホーム・移動・会話など
-- `town/`：TownyChat・QuickShopの案内
+- `town/`：TownyChatと、お店ガイドの入口（既存URLを維持）
+- `quickshop/`：QuickShop-Hikariの取引・作成・管理。入口は`town/shops.md`
 - `towny/`：Towny本体の使い方・コマンド。基準バージョンと実装を照合して更新する
 
 ## セクションを追加する
