@@ -39,6 +39,39 @@ sidebar:
 エンチャントテーブル・金床ともに対象です。通常の釣竿とは扱いが異なります。
 :::
 
+## 画像で見るレシピ
+
+画像は材料の置き方の一例です。**材料の配置は自由**なので、同じ種類と個数をそろえて作業台に置いてください。
+完成する竿は、どのレシピも1本です。
+
+### 竹竿
+
+![竹3個と糸2個から竹竿1本を作るレシピ](../../../assets/fishing/recipes/rod-bamboo-recipe.png)
+
+### 渓流竿（並）
+
+![竹竿1本と鉄インゴット3個から渓流竿（並）1本を作るレシピ](../../../assets/fishing/recipes/rod-keiryu-nami-recipe.png)
+
+### 渓流竿（上）
+
+![渓流竿（並）1本、ダイヤモンド1個、鉄インゴット2個から渓流竿（上）1本を作るレシピ](../../../assets/fishing/recipes/rod-keiryu-jo-recipe.png)
+
+### 磯竿（並）
+
+![竹竿1本と金インゴット3個から磯竿（並）1本を作るレシピ](../../../assets/fishing/recipes/rod-iso-nami-recipe.png)
+
+### 磯竿（上）
+
+![磯竿（並）1本、ダイヤモンド1個、金インゴット2個から磯竿（上）1本を作るレシピ](../../../assets/fishing/recipes/rod-iso-jo-recipe.png)
+
+### 船竿（並）
+
+![竹竿1本とダイヤモンド2個から船竿（並）1本を作るレシピ](../../../assets/fishing/recipes/rod-fune-nami-recipe.png)
+
+### 船竿（上）
+
+![船竿（並）1本、ネザライトの欠片1個、ダイヤモンド2個から船竿（上）1本を作るレシピ](../../../assets/fishing/recipes/rod-fune-jo-recipe.png)
+
 ## 餌のレシピ
 
 餌は必須ではありません。釣りたい魚が決まったら使ってみましょう。
