@@ -86,6 +86,24 @@ sidebar:
 コハダ系にはコノシロ、ハマチ系にはブリも含みます。
 サイズに応じて名前が変わる魚です。
 
+餌の材料も、作業台に置く順番は自由です。画像の右下の数字が、1回でできる餌の個数です。
+
+### ミミズ（4個）
+
+![土1個と小麦の種1個からミミズ4個を作るレシピ](../../../assets/fishing/recipes/bait-mimizu-recipe.png)
+
+### エビ（4個）
+
+![海草1個と骨粉1個からエビ4個を作るレシピ](../../../assets/fishing/recipes/bait-ebi-recipe.png)
+
+### イワシ（4個）
+
+![通常の生鮭1個とコンブ1個からイワシ4個を作るレシピ](../../../assets/fishing/recipes/bait-iwashi-recipe.png)
+
+### イカの切り身（2個）
+
+![イカスミ1個と通常の生鱈1個からイカの切り身2個を作るレシピ](../../../assets/fishing/recipes/bait-ika-no-mi-recipe.png)
+
 ## 餌を使う
 
 1. 竿をメインハンドに持ちます
