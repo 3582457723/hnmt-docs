@@ -20,6 +20,7 @@ export default defineConfig({
       { label: '📖 ガイドの入口', slug: '' },
       { label: 'はじめに', items: [{ autogenerate: { directory: 'start' } }] },
       { label: '暮らしの便利機能', items: [{ autogenerate: { directory: 'life' } }] },
+      { label: '釣りと料理', items: [{ autogenerate: { directory: 'fishing' } }] },
       { label: 'Townyの使い方', items: [{ autogenerate: { directory: 'towny' } }] },
       { label: 'QuickShopの使い方', items: [
         { label: '🛒 お店で取引する', slug: 'town/shops' },
