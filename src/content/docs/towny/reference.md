@@ -40,7 +40,8 @@ sidebar:
 | `/town set homeblock`・`spawn`・`outpost`・`spawncost` | [町の中心と移動先](../town-land/#町の中心移動先を決める) |
 | `/town forsale`・`notforsale`・`buytown`・`merge`・`delete`・`reclaim` | [町の売買・合併・削除・復興](../town-land/) |
 | `/town add`・`invite`・`kick`・`purge` | [住民と招待の管理](../town-management/) |
-| `/town rank add`・`remove`・`say`・`mayor`、`set mayor` | [役職と町長の引き継ぎ](../town-management/) |
+| `/town rank add`・`remove` | [ランク・役職](../ranks/) |
+| `/town say`・`mayor`、`set mayor` | [役職と町長の引き継ぎ](../town-management/) |
 | `/town set name`・`board`・`tag`・`title`・`surname`・`mapcolor` | [名前と案内](../town-management/#名前と案内を整える) |
 | `/town toggle` | [PvP・環境と公開の設定](../town-management/#pvp環境の設定) |
 | `/town outlaw`・`ban`・`outlawlist` | [無法者の指定](../town-management/#無法者の指定) |
