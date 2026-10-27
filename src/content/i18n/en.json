@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Delete typed text",
+  "pagefind.load_more": "Show more",
+  "pagefind.search_label": "Search in guide",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "No articles match [SEARCH_TERM]",
+  "pagefind.many_results": "[SEARCH_TERM] search results: [COUNT] items",
+  "pagefind.one_result": "[SEARCH_TERM] search results: [COUNT] items",
+  "pagefind.alt_search": "No articles were found that match [SEARCH_TERM]. Instead, we'll display the search results for [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "No articles were found that match [SEARCH_TERM]. Please try search for other words.",
+  "pagefind.searching": "Searching for [SEARCH_TERM] now...",
+  "heading.anchorLabel": "Link to {{title}}",
+  "404.text": "Sorry it page is not found. Please try type URL or search for other words."
+}
