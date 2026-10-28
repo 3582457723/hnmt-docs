@@ -35,7 +35,9 @@ sidebar:
 まず高度な醸造を行うには、飲料醸造テーブルが必要です。
 飲料醸造テーブのレシピとGUIはこちらです。
 
-<center>![飲料醸造テーブルのレシピ][../../../assets/brewing/drink_brewing_table-recipe.png] ![飲料醸造テーブルのレシピ][../../../assets/brewing/drink_brewing_table-gui.png]</center>
+![飲料醸造テーブルのレシピ](../../../assets/brewing/drink_brewing_table-recipe.png)
+
+![飲料醸造テーブルのGUI](../../../assets/brewing/drink_brewing_table-gui.png)
 
 飲料醸造テーブルの特徴は以下のとおりです。
 ・5段階での温度調節ができる
