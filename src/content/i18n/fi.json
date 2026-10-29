@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Poista kirjoitettu teksti",
+  "pagefind.load_more": "Näytä lisää",
+  "pagefind.search_label": "Etsi oppaasta",
+  "pagefind.filters_label": "Suodatin",
+  "pagefind.zero_results": "Mitään artikkelia ei vastaa [SEARCH_TERM]",
+  "pagefind.many_results": "Hakutulokset haulle [SEARCH_TERM]: [COUNT] kohdetta",
+  "pagefind.one_result": "Hakutulokset haulle [SEARCH_TERM]: [COUNT] kohde",
+  "pagefind.alt_search": "Artikkeleita, jotka vastaavat [SEARCH_TERM], ei löytynyt. Sen sijaan näytämme hakutulokset haulle [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Artikkeleita, jotka vastaavat [SEARCH_TERM], ei löytynyt. Kokeile etsiä toisilla sanoilla.",
+  "pagefind.searching": "Etsitään [SEARCH_TERM]...",
+  "heading.anchorLabel": "Linkki kohtaan {{title}}",
+  "404.text": "Pahoittelut, tätä sivua ei löydy. Kokeile kirjoittaa URL-osoite tai etsiä toisilla sanoilla."
+}

@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Διαγραφή κειμένου που πληκτρολογήθηκε",
+  "pagefind.load_more": "Εμφάνιση περισσότερων",
+  "pagefind.search_label": "Αναζήτηση στον οδηγό",
+  "pagefind.filters_label": "Φίλτρο",
+  "pagefind.zero_results": "Δεν υπάρχουν άρθρα που να ταιριάζουν με [SEARCH_TERM]",
+  "pagefind.many_results": "Αποτελέσματα αναζήτησης για [SEARCH_TERM]: [COUNT] στοιχεία",
+  "pagefind.one_result": "Αποτελέσματα αναζήτησης για [SEARCH_TERM]: [COUNT] στοιχείο",
+  "pagefind.alt_search": "Δεν βρέθηκαν άρθρα που να ταιριάζουν με [SEARCH_TERM]. Θα εμφανιστούν τα αποτελέσματα αναζήτησης για [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Δεν βρέθηκαν άρθρα που να ταιριάζουν με [SEARCH_TERM]. Δοκιμάστε να αναζητήσετε άλλες λέξεις.",
+  "pagefind.searching": "Αναζήτηση για [SEARCH_TERM]...",
+  "heading.anchorLabel": "Σύνδεσμος προς {{title}}",
+  "404.text": "Λυπούμαστε, αυτή η σελίδα δεν βρέθηκε. Δοκιμάστε να πληκτρολογήσετε τη διεύθυνση URL ή να αναζητήσετε άλλες λέξεις."
+}

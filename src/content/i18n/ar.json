@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "حذف النص المكتوب",
+  "pagefind.load_more": "عرض المزيد",
+  "pagefind.search_label": "البحث في الدليل",
+  "pagefind.filters_label": "تصفية",
+  "pagefind.zero_results": "لا توجد مقالات تطابق [SEARCH_TERM]",
+  "pagefind.many_results": "نتائج البحث عن [SEARCH_TERM]: [COUNT] عنصر",
+  "pagefind.one_result": "نتائج البحث عن [SEARCH_TERM]: [COUNT] عنصر",
+  "pagefind.alt_search": "لم يتم العثور على مقالات تطابق [SEARCH_TERM]. بدلاً من ذلك، سنعرض نتائج البحث عن [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "لم يتم العثور على مقالات تطابق [SEARCH_TERM]. جرّب البحث بكلمات أخرى.",
+  "pagefind.searching": "يتم البحث عن [SEARCH_TERM] الآن...",
+  "heading.anchorLabel": "رابط إلى {{title}}",
+  "404.text": "عذرًا، لم يتم العثور على هذه الصفحة. جرّب كتابة عنوان URL أو البحث بكلمات أخرى."
+}

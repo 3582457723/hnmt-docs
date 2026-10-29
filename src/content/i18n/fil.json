@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Burahin ang na-type na teksto",
+  "pagefind.load_more": "Ipakita pa",
+  "pagefind.search_label": "Maghanap sa gabay",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Walang artikulo ang tumutugma sa [SEARCH_TERM]",
+  "pagefind.many_results": "Mga resulta ng paghahanap para sa [SEARCH_TERM]: [COUNT] item",
+  "pagefind.one_result": "Mga resulta ng paghahanap para sa [SEARCH_TERM]: [COUNT] item",
+  "pagefind.alt_search": "Walang artikulong tumutugma sa [SEARCH_TERM]. Sa halip, ipapakita namin ang mga resulta ng paghahanap para sa [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Walang artikulong tumutugma sa [SEARCH_TERM]. Subukan ang paghahanap ng ibang salita.",
+  "pagefind.searching": "Hinahanap ang [SEARCH_TERM]...",
+  "heading.anchorLabel": "Link sa {{title}}",
+  "404.text": "Paumanhin, hindi nakita ang pahinang ito. Subukan ang pag-type ng URL o paghahanap ng ibang salita."
+}

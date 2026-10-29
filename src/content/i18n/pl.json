@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Usuń wpisany tekst",
+  "pagefind.load_more": "Pokaż więcej",
+  "pagefind.search_label": "Szukaj w przewodniku",
+  "pagefind.filters_label": "Filtr",
+  "pagefind.zero_results": "Brak artykułów pasujących do [SEARCH_TERM]",
+  "pagefind.many_results": "Wyniki wyszukiwania dla [SEARCH_TERM]: [COUNT] elementów",
+  "pagefind.one_result": "Wyniki wyszukiwania dla [SEARCH_TERM]: [COUNT] element",
+  "pagefind.alt_search": "Nie znaleziono artykułów pasujących do [SEARCH_TERM]. Zamiast tego wyświetlimy wyniki wyszukiwania dla [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Nie znaleziono artykułów pasujących do [SEARCH_TERM]. Spróbuj wyszukać inne słowa.",
+  "pagefind.searching": "Trwa wyszukiwanie [SEARCH_TERM]...",
+  "heading.anchorLabel": "Link do {{title}}",
+  "404.text": "Przepraszamy, tej strony nie znaleziono. Spróbuj wpisać adres URL lub wyszukać inne słowa."
+}

@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "टाइप किया गया टेक्स्ट हटाएँ",
+  "pagefind.load_more": "और दिखाएँ",
+  "pagefind.search_label": "गाइड में खोजें",
+  "pagefind.filters_label": "फ़िल्टर",
+  "pagefind.zero_results": "[SEARCH_TERM] से मेल खाने वाला कोई लेख नहीं मिला",
+  "pagefind.many_results": "[SEARCH_TERM] के लिए खोज परिणाम: [COUNT] आइटम",
+  "pagefind.one_result": "[SEARCH_TERM] के लिए खोज परिणाम: [COUNT] आइटम",
+  "pagefind.alt_search": "[SEARCH_TERM] से मेल खाने वाला कोई लेख नहीं मिला। इसके बजाय, [DIFFERENT_TERM] के खोज परिणाम दिखाए जाएँगे।",
+  "pagefind.search_suggestion": "[SEARCH_TERM] से मेल खाने वाला कोई लेख नहीं मिला। कृपया दूसरे शब्दों से खोजें।",
+  "pagefind.searching": "[SEARCH_TERM] खोजा जा रहा है...",
+  "heading.anchorLabel": "{{title}} का लिंक",
+  "404.text": "क्षमा करें, यह पृष्ठ नहीं मिला। URL टाइप करके या दूसरे शब्दों से खोजने की कोशिश करें।"
+}

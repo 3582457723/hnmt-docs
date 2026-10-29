@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Futa maandishi yaliyoandikwa",
+  "pagefind.load_more": "Onyesha zaidi",
+  "pagefind.search_label": "Tafuta kwenye mwongozo",
+  "pagefind.filters_label": "Chujio",
+  "pagefind.zero_results": "Hakuna makala zinazolingana na [SEARCH_TERM]",
+  "pagefind.many_results": "Matokeo ya utafutaji wa [SEARCH_TERM]: vipengee [COUNT]",
+  "pagefind.one_result": "Matokeo ya utafutaji wa [SEARCH_TERM]: kipengee [COUNT]",
+  "pagefind.alt_search": "Hakuna makala zinazolingana na [SEARCH_TERM] zilizopatikana. Badala yake, tutaonyesha matokeo ya utafutaji wa [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Hakuna makala zinazolingana na [SEARCH_TERM] zilizopatikana. Tafadhali jaribu kutafuta maneno mengine.",
+  "pagefind.searching": "Inatafuta [SEARCH_TERM]...",
+  "heading.anchorLabel": "Kiungo cha {{title}}",
+  "404.text": "Samahani, ukurasa huu haukupatikana. Jaribu kuandika URL au kutafuta maneno mengine."
+}

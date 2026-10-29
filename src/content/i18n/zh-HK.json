@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "清除已輸入文字",
+  "pagefind.load_more": "顯示更多",
+  "pagefind.search_label": "在指南中搜尋",
+  "pagefind.filters_label": "篩選",
+  "pagefind.zero_results": "沒有符合 [SEARCH_TERM] 的文章",
+  "pagefind.many_results": "[SEARCH_TERM] 的搜尋結果：[COUNT] 個項目",
+  "pagefind.one_result": "[SEARCH_TERM] 的搜尋結果：[COUNT] 個項目",
+  "pagefind.alt_search": "沒有找到符合 [SEARCH_TERM] 的文章。我們將改為顯示 [DIFFERENT_TERM] 的搜尋結果。",
+  "pagefind.search_suggestion": "沒有找到符合 [SEARCH_TERM] 的文章。請嘗試搜尋其他字詞。",
+  "pagefind.searching": "正在搜尋 [SEARCH_TERM]...",
+  "heading.anchorLabel": "連結至 {{title}}",
+  "404.text": "抱歉，找不到此頁面。請嘗試輸入 URL 或搜尋其他字詞。"
+}

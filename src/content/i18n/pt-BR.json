@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Excluir texto digitado",
+  "pagefind.load_more": "Mostrar mais",
+  "pagefind.search_label": "Pesquisar no guia",
+  "pagefind.filters_label": "Filtrar",
+  "pagefind.zero_results": "Nenhum artigo corresponde a [SEARCH_TERM]",
+  "pagefind.many_results": "Resultados da busca por [SEARCH_TERM]: [COUNT] itens",
+  "pagefind.one_result": "Resultados da busca por [SEARCH_TERM]: [COUNT] item",
+  "pagefind.alt_search": "Não foram encontrados artigos que correspondam a [SEARCH_TERM]. Em vez disso, mostraremos os resultados da busca para [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Não foram encontrados artigos que correspondam a [SEARCH_TERM]. Tente procurar por outras palavras.",
+  "pagefind.searching": "Buscando [SEARCH_TERM]...",
+  "heading.anchorLabel": "Link para {{title}}",
+  "404.text": "Desculpe, esta página não foi encontrada. Tente digitar a URL ou procurar por outras palavras."
+}

@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Eingetippten Text löschen",
+  "pagefind.load_more": "Mehr anzeigen",
+  "pagefind.search_label": "Im Handbuch suchen",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Keine Artikel entsprechen [SEARCH_TERM]",
+  "pagefind.many_results": "Suchergebnisse für [SEARCH_TERM]: [COUNT] Einträge",
+  "pagefind.one_result": "Suchergebnisse für [SEARCH_TERM]: [COUNT] Eintrag",
+  "pagefind.alt_search": "Es wurden keine Artikel gefunden, die zu [SEARCH_TERM] passen. Stattdessen zeigen wir die Suchergebnisse für [DIFFERENT_TERM] an.",
+  "pagefind.search_suggestion": "Es wurden keine Artikel gefunden, die zu [SEARCH_TERM] passen. Bitte versuchen Sie, nach anderen Wörtern zu suchen.",
+  "pagefind.searching": "Suche nach [SEARCH_TERM] läuft...",
+  "heading.anchorLabel": "Link zu {{title}}",
+  "404.text": "Es tut uns leid, diese Seite wurde nicht gefunden. Bitte geben Sie die URL ein oder suchen Sie nach anderen Wörtern."
+}

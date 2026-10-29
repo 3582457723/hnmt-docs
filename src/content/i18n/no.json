@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Slett innskrevet tekst",
+  "pagefind.load_more": "Vis mer",
+  "pagefind.search_label": "Søk i veiledningen",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Ingen artikler matcher [SEARCH_TERM]",
+  "pagefind.many_results": "Søkeresultater for [SEARCH_TERM]: [COUNT] elementer",
+  "pagefind.one_result": "Søkeresultat for [SEARCH_TERM]: [COUNT] element",
+  "pagefind.alt_search": "Fant ingen artikler som matcher [SEARCH_TERM]. I stedet viser vi søkeresultatene for [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Fant ingen artikler som matcher [SEARCH_TERM]. Prøv å søke etter andre ord.",
+  "pagefind.searching": "Søker etter [SEARCH_TERM]...",
+  "heading.anchorLabel": "Lenke til {{title}}",
+  "404.text": "Beklager, denne siden ble ikke funnet. Prøv å skrive inn nettadressen eller søke etter andre ord."
+}

@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Выдаліць уведзены тэкст",
+  "pagefind.load_more": "Паказаць яшчэ",
+  "pagefind.search_label": "Пошук у даведніку",
+  "pagefind.filters_label": "Фільтр",
+  "pagefind.zero_results": "Няма артыкулаў, якія адпавядаюць [SEARCH_TERM]",
+  "pagefind.many_results": "Вынікі пошуку для [SEARCH_TERM]: [COUNT] элементаў",
+  "pagefind.one_result": "Вынікі пошуку для [SEARCH_TERM]: [COUNT] элемент",
+  "pagefind.alt_search": "Не знойдзена артыкулаў, якія адпавядаюць [SEARCH_TERM]. Замест гэтага мы покажам вынікі пошуку для [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Не знойдзена артыкулаў, якія адпавядаюць [SEARCH_TERM]. Паспрабуйце шукаць іншыя словы.",
+  "pagefind.searching": "Пошук [SEARCH_TERM]...",
+  "heading.anchorLabel": "Спасылка на {{title}}",
+  "404.text": "Прабачце, гэтай старонкі не знойдзена. Паспрабуйце ўвесці URL або шукаць іншыя словы."
+}

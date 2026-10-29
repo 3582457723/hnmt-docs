@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "پاک کردن متن واردشده",
+  "pagefind.load_more": "نمایش بیشتر",
+  "pagefind.search_label": "جستجو در راهنما",
+  "pagefind.filters_label": "فیلتر",
+  "pagefind.zero_results": "مقاله‌ای با [SEARCH_TERM] مطابقت ندارد",
+  "pagefind.many_results": "نتایج جستجو برای [SEARCH_TERM]: [COUNT] مورد",
+  "pagefind.one_result": "نتایج جستجو برای [SEARCH_TERM]: [COUNT] مورد",
+  "pagefind.alt_search": "مقاله‌ای مطابق با [SEARCH_TERM] پیدا نشد. در عوض، نتایج جستجو برای [DIFFERENT_TERM] نمایش داده می‌شود.",
+  "pagefind.search_suggestion": "مقاله‌ای مطابق با [SEARCH_TERM] پیدا نشد. لطفاً واژه‌های دیگری را جستجو کنید.",
+  "pagefind.searching": "در حال جستجوی [SEARCH_TERM]...",
+  "heading.anchorLabel": "پیوند به {{title}}",
+  "404.text": "متأسفیم، این صفحه پیدا نشد. نشانی اینترنتی را وارد کنید یا با واژه‌های دیگری جستجو کنید."
+}

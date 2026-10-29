@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Padam teks yang ditaip",
+  "pagefind.load_more": "Tunjukkan lagi",
+  "pagefind.search_label": "Cari dalam panduan",
+  "pagefind.filters_label": "Penapis",
+  "pagefind.zero_results": "Tiada artikel yang sepadan dengan [SEARCH_TERM]",
+  "pagefind.many_results": "Hasil carian untuk [SEARCH_TERM]: [COUNT] item",
+  "pagefind.one_result": "Hasil carian untuk [SEARCH_TERM]: [COUNT] item",
+  "pagefind.alt_search": "Tiada artikel yang sepadan dengan [SEARCH_TERM] ditemui. Sebaliknya, hasil carian untuk [DIFFERENT_TERM] akan dipaparkan.",
+  "pagefind.search_suggestion": "Tiada artikel yang sepadan dengan [SEARCH_TERM] ditemui. Cuba cari menggunakan perkataan lain.",
+  "pagefind.searching": "Sedang mencari [SEARCH_TERM]...",
+  "heading.anchorLabel": "Pautan ke {{title}}",
+  "404.text": "Maaf, halaman ini tidak ditemui. Cuba masukkan URL atau cari menggunakan perkataan lain."
+}

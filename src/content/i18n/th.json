@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "ล้างข้อความที่พิมพ์",
+  "pagefind.load_more": "แสดงเพิ่มเติม",
+  "pagefind.search_label": "ค้นหาในคู่มือ",
+  "pagefind.filters_label": "ตัวกรอง",
+  "pagefind.zero_results": "ไม่พบบทความที่ตรงกับ [SEARCH_TERM]",
+  "pagefind.many_results": "ผลการค้นหาสำหรับ [SEARCH_TERM]: [COUNT] รายการ",
+  "pagefind.one_result": "ผลการค้นหาสำหรับ [SEARCH_TERM]: [COUNT] รายการ",
+  "pagefind.alt_search": "ไม่พบบทความที่ตรงกับ [SEARCH_TERM] จะแสดงผลการค้นหาสำหรับ [DIFFERENT_TERM] แทน",
+  "pagefind.search_suggestion": "ไม่พบบทความที่ตรงกับ [SEARCH_TERM] โปรดลองค้นหาด้วยคำอื่น",
+  "pagefind.searching": "กำลังค้นหา [SEARCH_TERM]...",
+  "heading.anchorLabel": "ลิงก์ไปยัง {{title}}",
+  "404.text": "ขออภัย ไม่พบหน้านี้ โปรดลองพิมพ์ URL หรือค้นหาด้วยคำอื่น"
+}

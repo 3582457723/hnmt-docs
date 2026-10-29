@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "清除已输入文本",
+  "pagefind.load_more": "显示更多",
+  "pagefind.search_label": "在指南中搜索",
+  "pagefind.filters_label": "筛选",
+  "pagefind.zero_results": "没有与 [SEARCH_TERM] 匹配的文章",
+  "pagefind.many_results": "[SEARCH_TERM] 的搜索结果：[COUNT] 个项目",
+  "pagefind.one_result": "[SEARCH_TERM] 的搜索结果：[COUNT] 个项目",
+  "pagefind.alt_search": "没有找到与 [SEARCH_TERM] 匹配的文章。我们将改为显示 [DIFFERENT_TERM] 的搜索结果。",
+  "pagefind.search_suggestion": "没有找到与 [SEARCH_TERM] 匹配的文章。请尝试搜索其他词。",
+  "pagefind.searching": "正在搜索 [SEARCH_TERM]...",
+  "heading.anchorLabel": "链接到 {{title}}",
+  "404.text": "抱歉，未找到此页面。请尝试输入 URL 或搜索其他词。"
+}

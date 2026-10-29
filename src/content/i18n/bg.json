@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Изтрий въведения текст",
+  "pagefind.load_more": "Покажи още",
+  "pagefind.search_label": "Търсене в ръководството",
+  "pagefind.filters_label": "Филтър",
+  "pagefind.zero_results": "Няма статии, съответстващи на [SEARCH_TERM]",
+  "pagefind.many_results": "Резултати от търсенето за [SEARCH_TERM]: [COUNT] елемента",
+  "pagefind.one_result": "Резултати от търсенето за [SEARCH_TERM]: [COUNT] елемент",
+  "pagefind.alt_search": "Не бяха открити статии, съответстващи на [SEARCH_TERM]. Вместо това ще покажем резултатите от търсенето за [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Не бяха открити статии, съответстващи на [SEARCH_TERM]. Опитайте да търсите други думи.",
+  "pagefind.searching": "Търсене на [SEARCH_TERM]...",
+  "heading.anchorLabel": "Връзка към {{title}}",
+  "404.text": "Съжаляваме, тази страница не е намерена. Опитайте да въведете URL адреса или да търсите други думи."
+}

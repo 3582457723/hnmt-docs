@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Ingevoerde tekst wissen",
+  "pagefind.load_more": "Meer weergeven",
+  "pagefind.search_label": "Zoeken in de gids",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Geen artikelen gevonden die overeenkomen met [SEARCH_TERM]",
+  "pagefind.many_results": "Zoekresultaten voor [SEARCH_TERM]: [COUNT] items",
+  "pagefind.one_result": "Zoekresultaten voor [SEARCH_TERM]: [COUNT] item",
+  "pagefind.alt_search": "Er zijn geen artikelen gevonden die overeenkomen met [SEARCH_TERM]. In plaats daarvan worden de zoekresultaten voor [DIFFERENT_TERM] weergegeven.",
+  "pagefind.search_suggestion": "Er zijn geen artikelen gevonden die overeenkomen met [SEARCH_TERM]. Probeer andere zoekwoorden.",
+  "pagefind.searching": "Zoeken naar [SEARCH_TERM]...",
+  "heading.anchorLabel": "Link naar {{title}}",
+  "404.text": "Sorry, deze pagina is niet gevonden. Probeer de URL in te voeren of met andere woorden te zoeken."
+}

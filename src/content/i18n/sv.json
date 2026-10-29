@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Radera angiven text",
+  "pagefind.load_more": "Visa mer",
+  "pagefind.search_label": "Sök i guiden",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Inga artiklar matchar [SEARCH_TERM]",
+  "pagefind.many_results": "Sökresultat för [SEARCH_TERM]: [COUNT] objekt",
+  "pagefind.one_result": "Sökresultat för [SEARCH_TERM]: [COUNT] objekt",
+  "pagefind.alt_search": "Inga artiklar hittades som matchar [SEARCH_TERM]. Istället visar vi sökresultaten för [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Inga artiklar hittades som matchar [SEARCH_TERM]. Försök att söka efter andra ord.",
+  "pagefind.searching": "Söker efter [SEARCH_TERM]...",
+  "heading.anchorLabel": "Länk till {{title}}",
+  "404.text": "Den här sidan hittades inte. Försök att skriva in URL:en eller söka efter andra ord."
+}

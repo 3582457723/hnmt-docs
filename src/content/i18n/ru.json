@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Удалить введённый текст",
+  "pagefind.load_more": "Показать ещё",
+  "pagefind.search_label": "Поиск в руководстве",
+  "pagefind.filters_label": "Фильтр",
+  "pagefind.zero_results": "Нет статей, соответствующих [SEARCH_TERM]",
+  "pagefind.many_results": "Результаты поиска по [SEARCH_TERM]: [COUNT] элементов",
+  "pagefind.one_result": "Результат поиска по [SEARCH_TERM]: [COUNT] элемент",
+  "pagefind.alt_search": "Не найдено статей, соответствующих [SEARCH_TERM]. Вместо этого мы покажем результаты поиска для [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Не найдено статей, соответствующих [SEARCH_TERM]. Попробуйте выполнить поиск по другим словам.",
+  "pagefind.searching": "Идёт поиск по [SEARCH_TERM]...",
+  "heading.anchorLabel": "Ссылка на {{title}}",
+  "404.text": "Извините, эта страница не найдена. Попробуйте ввести URL или выполнить поиск по другим словам."
+}

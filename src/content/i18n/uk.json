@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Видалити введений текст",
+  "pagefind.load_more": "Показати ще",
+  "pagefind.search_label": "Пошук у посібнику",
+  "pagefind.filters_label": "Фільтр",
+  "pagefind.zero_results": "Немає статей, що відповідають [SEARCH_TERM]",
+  "pagefind.many_results": "Результати пошуку за запитом [SEARCH_TERM]: [COUNT] елементів",
+  "pagefind.one_result": "Результати пошуку за запитом [SEARCH_TERM]: [COUNT] елемент",
+  "pagefind.alt_search": "Не знайдено статей, що відповідають [SEARCH_TERM]. Натомість ми покажемо результати пошуку для [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Не знайдено статей, що відповідають [SEARCH_TERM]. Спробуйте знайти інші слова.",
+  "pagefind.searching": "Пошук [SEARCH_TERM]...",
+  "heading.anchorLabel": "Посилання на {{title}}",
+  "404.text": "Вибачте, цю сторінку не знайдено. Спробуйте ввести URL або пошукати інші слова."
+}

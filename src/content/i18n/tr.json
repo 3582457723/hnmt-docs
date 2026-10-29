@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Yazılan metni sil",
+  "pagefind.load_more": "Daha fazla göster",
+  "pagefind.search_label": "Rehberde ara",
+  "pagefind.filters_label": "Filtre",
+  "pagefind.zero_results": "[SEARCH_TERM] ile eşleşen makale yok",
+  "pagefind.many_results": "[SEARCH_TERM] için arama sonuçları: [COUNT] öğe",
+  "pagefind.one_result": "[SEARCH_TERM] için arama sonuçları: [COUNT] öğe",
+  "pagefind.alt_search": "[SEARCH_TERM] ile eşleşen makale bulunamadı. Bunun yerine [DIFFERENT_TERM] için arama sonuçları gösterilecek.",
+  "pagefind.search_suggestion": "[SEARCH_TERM] ile eşleşen makale bulunamadı. Lütfen başka kelimelerle aramayı deneyin.",
+  "pagefind.searching": "[SEARCH_TERM] aranıyor...",
+  "heading.anchorLabel": "{{title}} bağlantısı",
+  "404.text": "Üzgünüz, bu sayfa bulunamadı. URL'yi yazmayı veya başka kelimelerle aramayı deneyin."
+}

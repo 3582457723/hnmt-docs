@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Оруулсан текстийг арилгах",
+  "pagefind.load_more": "Илүүг харуулах",
+  "pagefind.search_label": "Гарын авлагаас хайх",
+  "pagefind.filters_label": "Шүүлтүүр",
+  "pagefind.zero_results": "[SEARCH_TERM]-тэй тохирох нийтлэл алга",
+  "pagefind.many_results": "[SEARCH_TERM]-ийн хайлтын үр дүн: [COUNT] зүйл",
+  "pagefind.one_result": "[SEARCH_TERM]-ийн хайлтын үр дүн: [COUNT] зүйл",
+  "pagefind.alt_search": "[SEARCH_TERM]-тэй тохирох нийтлэл олдсонгүй. Оронд нь [DIFFERENT_TERM]-ийн хайлтын үр дүнг харуулна.",
+  "pagefind.search_suggestion": "[SEARCH_TERM]-тэй тохирох нийтлэл олдсонгүй. Өөр үгээр хайж үзнэ үү.",
+  "pagefind.searching": "[SEARCH_TERM]-ийг хайж байна...",
+  "heading.anchorLabel": "{{title}} руу очих холбоос",
+  "404.text": "Уучлаарай, энэ хуудсыг олсонгүй. URL хаяг оруулах эсвэл өөр үгээр хайж үзнэ үү."
+}

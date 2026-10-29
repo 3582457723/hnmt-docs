@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Hapus teks yang diketik",
+  "pagefind.load_more": "Tampilkan lebih banyak",
+  "pagefind.search_label": "Cari di panduan",
+  "pagefind.filters_label": "Filter",
+  "pagefind.zero_results": "Tidak ada artikel yang cocok dengan [SEARCH_TERM]",
+  "pagefind.many_results": "Hasil pencarian untuk [SEARCH_TERM]: [COUNT] item",
+  "pagefind.one_result": "Hasil pencarian untuk [SEARCH_TERM]: [COUNT] item",
+  "pagefind.alt_search": "Tidak ditemukan artikel yang cocok dengan [SEARCH_TERM]. Sebagai gantinya, kami akan menampilkan hasil pencarian untuk [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Tidak ditemukan artikel yang cocok dengan [SEARCH_TERM]. Coba cari kata lain.",
+  "pagefind.searching": "Mencari [SEARCH_TERM]...",
+  "heading.anchorLabel": "Tautan ke {{title}}",
+  "404.text": "Maaf, halaman ini tidak ditemukan. Coba ketik URL atau cari kata lain."
+}

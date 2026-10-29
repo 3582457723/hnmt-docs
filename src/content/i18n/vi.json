@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "Xóa văn bản đã nhập",
+  "pagefind.load_more": "Hiển thị thêm",
+  "pagefind.search_label": "Tìm kiếm trong hướng dẫn",
+  "pagefind.filters_label": "Bộ lọc",
+  "pagefind.zero_results": "Không có bài viết nào phù hợp với [SEARCH_TERM]",
+  "pagefind.many_results": "Kết quả tìm kiếm cho [SEARCH_TERM]: [COUNT] mục",
+  "pagefind.one_result": "Kết quả tìm kiếm cho [SEARCH_TERM]: [COUNT] mục",
+  "pagefind.alt_search": "Không tìm thấy bài viết nào phù hợp với [SEARCH_TERM]. Thay vào đó, chúng tôi sẽ hiển thị kết quả tìm kiếm cho [DIFFERENT_TERM].",
+  "pagefind.search_suggestion": "Không tìm thấy bài viết nào phù hợp với [SEARCH_TERM]. Hãy thử tìm kiếm bằng các từ khác.",
+  "pagefind.searching": "Đang tìm kiếm [SEARCH_TERM]...",
+  "heading.anchorLabel": "Liên kết đến {{title}}",
+  "404.text": "Rất tiếc, trang này không được tìm thấy. Hãy thử nhập URL hoặc tìm kiếm bằng các từ khác."
+}

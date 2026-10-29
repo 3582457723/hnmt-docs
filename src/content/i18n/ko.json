@@ -1,0 +1,14 @@
+{
+  "pagefind.clear_search": "입력한 텍스트 지우기",
+  "pagefind.load_more": "더 보기",
+  "pagefind.search_label": "가이드에서 검색",
+  "pagefind.filters_label": "필터",
+  "pagefind.zero_results": "[SEARCH_TERM]에 해당하는 문서가 없습니다",
+  "pagefind.many_results": "[SEARCH_TERM] 검색 결과: [COUNT]개 항목",
+  "pagefind.one_result": "[SEARCH_TERM] 검색 결과: [COUNT]개 항목",
+  "pagefind.alt_search": "[SEARCH_TERM]에 해당하는 문서를 찾을 수 없습니다. 대신 [DIFFERENT_TERM]의 검색 결과를 표시합니다.",
+  "pagefind.search_suggestion": "[SEARCH_TERM]에 해당하는 문서를 찾을 수 없습니다. 다른 단어로 검색해 보세요.",
+  "pagefind.searching": "[SEARCH_TERM] 검색 중...",
+  "heading.anchorLabel": "{{title}} 링크",
+  "404.text": "죄송합니다. 페이지를 찾을 수 없습니다. URL을 입력하거나 다른 단어로 검색해 보세요."
+}
